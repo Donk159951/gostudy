@@ -1,1 +1,5 @@
 package gostudy
+
+func main() {
+
+}
